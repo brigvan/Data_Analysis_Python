@@ -1,2 +1,2 @@
-blablabla
+This is a collection of some real-world projects available on DataCamp that can be carried out using Python.
 
