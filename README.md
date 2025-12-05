@@ -30,3 +30,16 @@ This is a collection of some real-world projects available on DataCamp that can 
 1. What was the most frequent movie duration in the 1990s? 
 2. A movie is considered short if it is less than 90 minutes. Count the number of short action movies released in the 1990s 
 
+
+# 4 Investigating Netflix Movies
+**Description**: In this project, you'll get a chance to explore and answer several questions related to this prizewinning data. 
+
+**Dataset**:The Nobel Foundation has made a dataset available of all prize winners from the outset of the awards from 1901 to 2023. The dataset used in this project is from the Nobel Prize API.
+
+**Questions to answer** 
+1. What is the most commonly awarded gender and birth country?
+2. Which decade had the highest ratio of US-born Nobel Prize winners to total winners in all categories?
+3. Which decade and Nobel Prize category combination had the highest proportion of female laureates?
+4. Who was the first woman to receive a Nobel Prize, and in what category?
+5. Which individuals or organizations have won more than one Nobel Prize throughout the years?
+
