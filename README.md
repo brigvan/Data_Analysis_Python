@@ -20,3 +20,13 @@ This is a collection of some real-world projects available on DataCamp that can 
 1. Which NYC schools have the best math results? 
 2. What are the top 10 performing schools based on the combined SAT scores? 
 3. Which single borough has the largest standard deviation in the combined SAT score?
+
+# 3 Investigating Netflix Movies
+**Description**: You work for a production company that specializes in nostalgic styles. You want to do some research on movies released in the 1990's. You'll delve into Netflix data and perform exploratory data analysis to better understand this awesome movie decade!
+
+**Dataset**:The dataset is list of several films cotnaining information such as title, genre, duration, cast, release year, etc.
+
+**Questions to answer** 
+1. What was the most frequent movie duration in the 1990s? 
+2. A movie is considered short if it is less than 90 minutes. Count the number of short action movies released in the 1990s 
+
